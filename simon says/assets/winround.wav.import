@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/winround.wav-68ba5b23c23decdba98bc367ad2c8e09.sample"
+
+[deps]
+
+source_file="res://assets/winround.wav"
+dest_files=[ "res://.import/winround.wav-68ba5b23c23decdba98bc367ad2c8e09.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
